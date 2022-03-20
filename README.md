@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fluxnetworks" alt="fluxnetworks" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/fluxxnetworks" target="blank"><img src="https://img.shields.io/twitter/follow/fluxxnetworks?logo=twitter&style=for-the-badge" alt="fluxxnetworks" /></a> </p>
+<p align="left"> <a href="https://twitter.com/fluxxnetworks" target="blank"><img src="https://img.shields.io/twitter/follow/fluxnetworks_?logo=twitter&style=for-the-badge" alt="fluxxnetworks" /></a> </p>
 
 - 🔭 We are currently working on [Flux Networks LLC](https://fluxnetworks.xyz/github)
 
